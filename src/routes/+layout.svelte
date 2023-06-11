@@ -6,6 +6,8 @@
 	// Most of your app wide CSS should be put in this file
 	import '../app.postcss';
 
+	export const prerender = true;
+
 </script>
 
 
